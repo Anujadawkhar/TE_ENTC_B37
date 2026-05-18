@@ -1,0 +1,8 @@
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\logger\LogEntry.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\logger\LogFormatter.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\LoggingMiddlewareApplication.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\model\LogEntry.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\logger\FileLogWriter.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\logger\AppLogger.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\logger\ConsoleLogWriter.class
+com\Affordmed\LoggingMiddleware\LoggingMiddleware\logger\LogWriter.class
